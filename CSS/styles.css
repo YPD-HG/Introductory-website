@@ -1,0 +1,53 @@
+
+body{
+  text-align: center;
+background-color: #beebe9;
+
+}
+.tc{
+  background-color: #beebe9;
+  position: relative;
+  padding: 100px;
+
+}
+.mc{
+background-color: #beebe9;
+}
+.bc{
+  background-color: #beebe9;
+}
+#bocl{
+  position: absolute;
+}
+#h1{background-color: #beebe9;
+  font-family: 'sacramento';
+  text-size-adjust: 5px;
+  font-size: 3em;
+}
+h3{
+  font-family: 'Indie-Flower'
+}
+p{
+  background-color: #beebe9;
+  font-family: 'Sacramento',handwritten ;
+  font-size: 2.6em;
+}
+#img{
+  position: absolute;
+  top: 50px;
+  right: 400px;
+}
+#co{
+  height: 600px;
+  width:  800px;
+}
+#we{
+  width: 800px;
+  height: 600px;
+}
+h2{
+  font-family :'Indie-Flower';
+}
+#na{
+  background-color: #beebe9;
+}
